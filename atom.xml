@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://12345lorry.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-07T12:19:37.574Z</updated>
+    <id>https://12345lorry.github.io/Lorry.github.io/</id>
+    <title>12345Lorry</title>
+    <updated>2022-04-07T12:32:27.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://12345lorry.github.io"/>
-    <link rel="self" href="https://12345lorry.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://12345lorry.github.io/images/avatar.png</logo>
-    <icon>https://12345lorry.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <link rel="alternate" href="https://12345lorry.github.io/Lorry.github.io/"/>
+    <link rel="self" href="https://12345lorry.github.io/Lorry.github.io/atom.xml"/>
+    <subtitle>啊，一些蛋疼的尝试</subtitle>
+    <logo>https://12345lorry.github.io/Lorry.github.io/images/avatar.png</logo>
+    <icon>https://12345lorry.github.io/Lorry.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 12345Lorry</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://12345lorry.github.io/post/hello-gridea/</id>
-        <link href="https://12345lorry.github.io/post/hello-gridea/">
+        <id>https://12345lorry.github.io/Lorry.github.io/post/hello-gridea/</id>
+        <link href="https://12345lorry.github.io/Lorry.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
